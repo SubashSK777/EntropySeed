@@ -3,11 +3,6 @@
 
 This repository contains a Python proof-of-concept for turning geographic coordinates into cryptographic keys. It is intended for educational and experimental purposes only.
 
-> ## ⚠️ Brutal Truth First: Do Not Use This in Production
->
-> **Do not invent your own crypto for real security.** This repository is for prototyping and experimenting with coordinates as an entropy source. For anything serious, use standard, reviewed primitives like **SHA-2/3, HKDF, AES-GCM, and ChaCha20-Poly1305**.
->
-> **Got it? Good.**
 
 -----
 
